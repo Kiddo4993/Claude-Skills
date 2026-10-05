@@ -1,0 +1,13 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "facilitation",
+  "version": "0.1.0",
+  "description": "Surveys all installed Claude Code skills/plugins and determines which one best fits the final product the user wants to build",
+  "author": {
+    "name": "Dylan",
+    "email": "dylanduancanada@gmail.com"
+  },
+  "skills": [
+    "./"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "favicon",
+  "version": "0.1.0",
+  "description": "Designs premium, hand-crafted-looking favicons and full icon sets through multiple concept iterations and a small-size legibility critique",
+  "author": {
+    "name": "Dylan",
+    "email": "dylanduancanada@gmail.com"
+  },
+  "skills": [
+    "./"
+  ]
+}

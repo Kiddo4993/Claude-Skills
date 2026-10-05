@@ -1,0 +1,13 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "typography",
+  "version": "0.1.0",
+  "description": "Researches live on the web to find and recommend typography genuinely fitting a specific project's brand, rather than defaulting to a memorized list of safe pairings",
+  "author": {
+    "name": "Dylan",
+    "email": "dylanduancanada@gmail.com"
+  },
+  "skills": [
+    "./"
+  ]
+}
